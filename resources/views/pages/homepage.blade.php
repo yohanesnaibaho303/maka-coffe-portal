@@ -2,7 +2,7 @@
 
 @section('container')
 
-<h1 style="background-color: blue">
+<h1 class="homepage">
     ini adalah test home
 </h1>
 
