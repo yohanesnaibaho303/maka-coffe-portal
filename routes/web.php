@@ -18,6 +18,24 @@ Route::get('/', function () {
         'title' => "Home"
     ]);
 });
+Route::get('/home', function () {
+    return redirect('/');
+});
+Route::get('/shop', function () {
+    return view('pages.shop', [
+        'title' => "Shop"
+    ]);
+});
+Route::get('/home', function () {
+    return redirect('/');
+});
+Route::get('/menu', function () {
+    return view('pages.menu', [
+        'title' => "Menu"
+    ]);
+});
+
+
 
 Route::get('/home', function () {
     return redirect('/');
