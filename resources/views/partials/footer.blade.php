@@ -1,3 +1,3 @@
-<h1 class="bg-secondary">
+<!-- <h1 class="bg-secondary">
     ini adalah test footer
-</h1>
+</h1> -->

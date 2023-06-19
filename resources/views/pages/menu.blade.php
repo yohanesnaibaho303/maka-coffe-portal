@@ -1,4 +1,4 @@
-<section class="shop" id="shop">
+<section class="shop" id="menu-section">
   <div class="heading">
     <span>Shop Now</span>
     <h1>Shop Coffee</h1>
