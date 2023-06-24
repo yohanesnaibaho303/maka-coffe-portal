@@ -4,6 +4,7 @@
 
 @include('pages.shop')
 
+@include('pages.about')
 <div id="homepage-carousel">
   <div id="carouselExampleCaptions" class="carousel slide">
       <div class="carousel-indicators">
@@ -45,7 +46,6 @@
   </div>
 </div>
 
-@include('pages.about')
 @include('pages.menu')
 @include('pages.contact')
 

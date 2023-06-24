@@ -5,7 +5,7 @@
   </div>
   <div class="container">
     <div class="about-img">
-      <img src="/logo/1.jpg" alt="">
+      <img src="/logo/8.jpg" alt="">
     </div>
     <div class="about-text">
       <h2>About MAKA COFFEE</h2>

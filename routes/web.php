@@ -31,15 +31,23 @@ Route::get('/home', function () {
 });
 Route::get('/menu', function () {
     return view('pages.menu', [
-        'title' => "Menu"
+        'title' => "menu"
     ]);
 });
-
-
-
 Route::get('/home', function () {
     return redirect('/');
 });
+Route::get('/contact', function () {
+    return view('pages.contact', [
+        'title' => "Contact"
+    ]);
+});
+Route::get('/home', function () {
+    return redirect('/');
+});
+
+
+
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
