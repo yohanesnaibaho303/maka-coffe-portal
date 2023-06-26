@@ -1,4 +1,4 @@
-<div class="container about-01 pt-5" id="about-section">
+<!-- <div class="container about-01 pt-5" id="about-section">
   <div class="heading">
     <span>ABOUT</span>
     <h1>Maka Coffee</h1>
@@ -14,4 +14,37 @@
       <a href="#" class="btn">Order Now</a>
     </div>
   </div>
+</div> -->
+<div class="container-fluid carousel-contain py-5">
+  <div class="container">
+    <h2 class="text-right mb-3">About</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci deleniti magni esse quasi, veritatis impedit quisquam molestias aut. Ratione, labore vero numquam rerum doloremque ab. Dolores neque, quos excepturi impedit vero placeat distinctio sapiente amet ab sint nostrum maxime unde fugit recusandae labore. Quos repellat nam quis nisi excepturi corrupti?</p>
+    <div id="carouselExampleAutoplaying" class="carousel slide col-lg-6 offset-lg-7" data-bs-ride="carousel">
+      <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="/logo/8.jpg" class="d-block w-60" alt="...">
+      </div>
+    <div class="carousel-item">
+      <img src="/logo/7.jpg" class="d-block w-60" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/logo/5.jpg" class="d-block w-60" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/logo/9.jpg" class="d-block w-60" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/logo/6.jpg" class="d-block w-60" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+</div>
 </div>
