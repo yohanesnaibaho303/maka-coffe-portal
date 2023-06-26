@@ -1,11 +1,11 @@
-<section class="about" id="about-section">
+<div class="container about-01 pt-5" id="about-section">
   <div class="heading">
     <span>ABOUT</span>
     <h1>Maka Coffee</h1>
   </div>
-  <div class="container">
+  <div class="container-about">
     <div class="about-img">
-      <img src="/logo/8.jpg" alt="">
+      <img src="/logo/8.jpg" alt="" style="max-width:70%; border-radius: 20px">
     </div>
     <div class="about-text">
       <h2>About MAKA COFFEE</h2>
@@ -14,4 +14,4 @@
       <a href="#" class="btn">Order Now</a>
     </div>
   </div>
-</section>
+</div>
