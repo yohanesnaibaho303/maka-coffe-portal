@@ -1,5 +1,9 @@
 <!-- section -->
-<section>
+<section class="fsh-style">
+  <div class="heading">
+    <span>Get In Touch With Us!</span>
+    <h1>Contact</h1>
+  </div>
   <!-- Contact Container -->
   <div class="contact-container" id="contact-section">
     <!-- form -->
